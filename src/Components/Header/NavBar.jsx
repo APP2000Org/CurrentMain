@@ -82,7 +82,7 @@ export default function NavBar() {
               <SearchIcon />
             </div>
             <InputBase
-              placeholder="Søk"
+              placeholder="TEST"
               classes={{
                 root: classes.inputRoot,
                 input: classes.inputInput
